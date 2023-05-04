@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/endpoint/", (req, res) => {
-  res.json({ message: "This is another endpoint" });
+  res.json({ message: "Hola equipo no me banneen porfavor !" });
 });
 
 // define a simple POST endpoint
