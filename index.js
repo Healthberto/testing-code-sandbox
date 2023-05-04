@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/endpoint/", (req, res) => {
-  res.json({ message: "Welcome to my API, it is in progress yet !" });
+  res.json({ message: "This is another endpoint" });
 });
 
 // define a simple POST endpoint
