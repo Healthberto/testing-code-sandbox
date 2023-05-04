@@ -14,10 +14,6 @@ app.get("/", (req, res) => {
   res.json({ message: "Welcome to my API, it is in progress yet !" });
 });
 
-app.get("/endpoint/", (req, res) => {
-  res.json({ message: "Hola equipo no me banneen porfavor !" });
-});
-
 // define a simple POST endpoint
 app.post("/", (req, res) => {
   const { name } = req.body;
