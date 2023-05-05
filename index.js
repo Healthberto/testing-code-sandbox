@@ -11,7 +11,15 @@ app.use(bodyParser.json());
 
 // define a simple GET endpoint
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to my API, it is in progress yet !" });
+  res.json({
+    message: "Bienvenido a mi API en CodeSandbox, esta en progreso aún !",
+  });
+});
+
+app.get("/myendpoint", (req, res) => {
+  res.json({
+    message: "Hola soy tu endpoint",
+  });
 });
 
 app.get("/itisfine", (req, res) => {

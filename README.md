@@ -1,10 +1,10 @@
 # Node.js template
 
-This is a Node.js project.
+Este es un proyecto de Node.js.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+Agrega tu [configuracion](https://codesandbox.io/docs/projects/learn/setting-up/tasks) para optimizarlo a [CodeSandbox](https://codesandbox.io/p/dashboard).
 
-## Resources
+## Recursos
 
 - [CodeSandbox — Docs](https://codesandbox.io/docs/projects)
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
